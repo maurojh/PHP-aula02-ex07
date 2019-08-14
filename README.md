@@ -778,7 +778,7 @@ Adicional:
 </colgroup>
 <tbody>
 <tr>
-<td class="org-right">Bebe refrigerante ou cerveja</td>
+<td class="org-right">Bebe refrigerante e cerveja</td>
 </tr>
 
 <tr>
